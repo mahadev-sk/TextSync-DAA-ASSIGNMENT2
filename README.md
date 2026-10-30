@@ -11,7 +11,7 @@ Double-click `lcs_text_similarity.html` — it opens directly in your browser. N
 
 ### Option 2: Local server
 ```bash
-cd "DBMS Project"
+
 python -m http.server 8080
 ```
 Then open: **http://localhost:8080/lcs_text_similarity.html**
