@@ -16,9 +16,6 @@ python -m http.server 8080
 ```
 Then open: **http://localhost:8080/lcs_text_similarity.html**
 
-### Option 3: GitHub Pages (free hosting)
-After uploading to GitHub, go to **Settings → Pages → Source → main branch** and your site will be live at:  
-`https://<your-username>.github.io/<repo-name>/lcs_text_similarity.html`
 
 ## ✨ Features
 
